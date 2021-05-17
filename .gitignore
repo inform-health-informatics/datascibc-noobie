@@ -1,3 +1,15 @@
+# Data files
+
+# blanket exclusion for now but you may want to make exceptions later
+*.csv
+*.RDS
+*.RData
+
+
+# Secrets
+# R Environment Variables
+.Renviron
+
 # History files
 .Rhistory
 .Rapp.history
@@ -35,5 +47,3 @@ vignettes/*.pdf
 *.utf8.md
 *.knit.md
 
-# R Environment Variables
-.Renviron

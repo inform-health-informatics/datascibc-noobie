@@ -12,3 +12,14 @@ By then end of this, you should
 - pushed the result back to a schema on the UDS
 
 
+## Security
+
+Create a `.Renviron` file at the top level of your project using the example in `example/dotRenviron`.
+Ensure that your `.gitignore` file excludes `.Renviron` and data files that might leak sensitive data. See the example in this repository.
+
+
+## Link list
+
+- https://happygitwithr.com
+- http://www.dartistics.com/renviron.html
+

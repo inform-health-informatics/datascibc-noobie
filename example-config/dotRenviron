@@ -1,0 +1,28 @@
+# IMPORTANT
+# DO NOT ADD THE .Renviron VERSION OF THIS FILE TO VERSION CONTROL
+
+# RENAME from dotrenviron to .Renviron in place and then update the
+# environment variables with actual values
+
+# .Renviron MUST be saved at the top level of your project (i.e. not here with the example files)
+
+# IDS access
+IDS_PWD=foo
+IDS_HOST=bar
+IDS_USER=me
+
+# UDS access
+UDS_PWD=foo
+UDS_HOST=bar
+UDS_USER=me
+
+# Internet access
+http_proxy=http://my-hospital.nhs.uk:1234/
+HTTP_PROXY=http://my-hospital.nhs.uk:1234/
+https_proxy=http://my-hospital.nhs.uk:1234/
+HTTPS_PROXY=http://my-hospital.nhs.uk:1234/
+
+
+# https://rstudio.github.io/renv/articles/docker.html
+RENV_PATHS_CACHE=/home/rstudio/renv
+ 
