@@ -17,6 +17,9 @@ Before you start please read [this short guide](https://guides.github.com/introd
 - I then created a pull request to merge these notes into the 'main' branch; I used my administrator privileges to override the requirement for a review; but did not delete this branch as I still had ongoing work
 - next I created a readme.md file
 
+Finally, I ...
+
+- made some feature branches to hold sketches of the code we need for 'security' and 'utilities'
 
 ## Useful links
 
