@@ -9,11 +9,13 @@ Before you start please read [this short guide](https://guides.github.com/introd
 - this repository will _allow_ commits to the main branch without at least one review
 
 - now log on to the data science desktop
+- Clone your repository (using visual studio code or git gui) saving it into either yours or the transfer B:/ drive on the data science desktop.
 - open RStudio
 - created a new project by checking out from version control (bottom option)
 
 - *before* you do any work, make a branch (see 'New Branch') button or follow [this](https://stackoverflow.com/a/55592824). I made a branch called 'feature/getting-started'
 - then I commited this file to that branch and pushed that back to github (my 'origin' repo)
+- If your push/pull tab is greyed out you might be able to resolve that by doing [this](https://swcarpentry.github.io/git-novice/14-supplemental-rstudio/#:~:text=Grayed%20out%20Push%2FPull%20commands,Then%20restart%20RStudio.)
 - I then created a pull request to merge these notes into the 'main' branch; I used my administrator privileges to override the requirement for a review; but did not delete this branch as I still had ongoing work
 - next I created a readme.md file
 
