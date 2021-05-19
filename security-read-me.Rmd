@@ -1,0 +1,15 @@
+## What Cheryl did to set up her security to safely store secret codes and keep data and key items off the internet
+
+- Forked [inform-health-informatics/datascibc-noobie](https://github.com/inform-health-informatics/datascibc-noobie) and added to [my] (https://github.com/tagimoucia-cheryl?tab=repositories)repository.
+- Cloned repository onto my datascience desktop into directory: B:/datascibc-noobie/public-datascibc-noobie
+- saved [example-config](https://github.com/tagimoucia-cheryl/datascibc-noobie-1/tree/feature/security-basics)as .Renviron in  directory on data science desktop (B:/datascibc-noobie/public-datascibc-noobie)
+- I populated UDS detail with that used to access EMAP via dbForge 
+- I have detailed the UCH proxy address as: 
+_http_proxy=http://www-cache-n.xuclh.nhs.uk:3128//_
+_HTTP_PROXY=http://www-cache-n.xuclh.nhs.uk:3128/_
+_https_proxy=http://www-cache-n.xuclh.nhs.uk:3128/_
+_HTTPS_PROXY=http://www-cache-n.xuclh.nhs.uk:3128/_
+
+*What is left for me to populate:*
+- ICS details, if they are needed
+- internet access proxy address for UCL
